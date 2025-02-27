@@ -1,0 +1,1 @@
+# OneRingTranslator_SillyTavern
